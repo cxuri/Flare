@@ -2,13 +2,13 @@
 
 **Flare** is an open-source cybersecurity platform designed to monitor app behavior, track user activity, and collect performance data in real-time. Built with a focus on application security, **Flare** helps developers and security professionals ensure that their digital ecosystems are safe, optimized, and efficient.
 
-FlareSec leverages powerful Flutter plugins to seamlessly integrate with existing applications, enabling real-time detection of anomalies, performance bottlenecks, and potential security risks.
+Flare leverages powerful Flutter plugins to seamlessly integrate with existing applications, enabling real-time detection of anomalies, performance bottlenecks, and potential security risks.
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/cxuri/flare?style=social)](https://github.com/cxuri/flare/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/flaresec?style=social)](https://github.com/cxuri/flare/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/flaresec)](https://github.com/yourusername/flaresec/issues)
+[![GitHub stars](https://img.shields.io/github/stars/cxuri/flare?style=social)](https://github.com/cxuri/flare/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/cxuri/flare?style=social)](https://github.com/cxuri/flare/network)  
+[![GitHub issues](https://img.shields.io/github/issues/cxuri/flare)](https://github.com/cxuri/flare/issues)  
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Features ✨
@@ -35,4 +35,4 @@ To get started with **Flare**, follow the installation instructions below:
 
 ```bash
 git clone https://github.com/cxuri/flare.git
-cd flaresec
+cd flare
