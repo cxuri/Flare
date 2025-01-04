@@ -6,8 +6,8 @@ FlareSec leverages powerful Flutter plugins to seamlessly integrate with existin
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/flaresec?style=social)](https://github.com/yourusername/flaresec/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/flaresec?style=social)](https://github.com/yourusername/flaresec/network)
+[![GitHub stars](https://img.shields.io/github/stars/cxuri/flare?style=social)](https://github.com/cxuri/flare/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/flaresec?style=social)](https://github.com/cxuri/flare/network)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/flaresec)](https://github.com/yourusername/flaresec/issues)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
