@@ -29,5 +29,5 @@ To get started with **FlareSec**, follow the installation instructions below:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flaresec.git
+git clone https://github.com/cxuri/flare.git
 cd flaresec
