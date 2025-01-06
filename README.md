@@ -6,11 +6,11 @@ By leveraging powerful Flutter plugins, **Flare** seamlessly integrates with you
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub stars](https://img.shields.io/github/stars/cxuri/flare?style=flat-square&color=brightgreen)](https://github.com/cxuri/flare/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/cxuri/flare?style=flat-square&color=blue)](https://github.com/cxuri/flare/network)  
-[![GitHub issues](https://img.shields.io/github/issues/cxuri/flare?style=flat-square&color=red)](https://github.com/cxuri/flare/issues)  
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
+## Built With
+
+- [Flutter](https://flutter.dev/) - UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase
+- [Go](https://golang.org/) - A statically typed, compiled programming language designed for simplicity and performance
+- [Dart](https://dart.dev/) - Programming language used by Flutter for building high-performance apps
 
 ---
 
