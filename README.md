@@ -8,9 +8,9 @@ By leveraging powerful Flutter plugins, **Flare** seamlessly integrates with you
 
 ## Built With
 
-- [Flutter](https://flutter.dev/) - UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase
-- [Go](https://golang.org/) - A statically typed, compiled programming language designed for simplicity and performance
-- [Dart](https://dart.dev/) - Programming language used by Flutter for building high-performance apps
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ---
 
