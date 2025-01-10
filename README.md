@@ -58,7 +58,7 @@ flutter pub get
 import 'package:flare/flare.dart'
 ```
 
-## Usage ⏯️
+## Usage 
 
 ```dart
 import 'package:flare/flare.dart';
