@@ -34,8 +34,26 @@ To get started with **Flare**, follow the installation instructions below:
 - **Flutter** (version 2.0 or higher)
 - **Dart SDK** (version 2.12 or higher)
 
-### 🔽 **Clone the Repository**
+### 1. **Add Flare to Your Project**
+
+To add **Flare** to your project, update your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  flare:
+    git:
+      url: https://github.com/username/flare
+      ref: main  # Replace with the branch or tag you'd like to use
+```
+### 2. **Get dependencies**
 
 ```bash
-git clone https://github.com/cxuri/flare.git
-cd flare
+flutter pub get
+```
+### 3. **Add flare to your project**
+
+```dart
+import 'package:flare/flare.dart'
+```
