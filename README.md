@@ -57,3 +57,27 @@ flutter pub get
 ```dart
 import 'package:flare/flare.dart'
 ```
+
+## Usage ⏯️
+
+```dart
+import 'package:flare/flare.dart';
+
+void main() async {
+  // Example SHA-256 hash (replace with actual hash)
+  final appHash = "your_sha256_hash_here";
+
+  // Create an instance of Flare
+  final flare = Flare(appHash);
+
+  // Verify app integrity
+  final isVerified = await flare.verify();
+
+  // Take action based on the result
+  if (isVerified == true) {
+    print("Proceeding with secure operations...");
+  } else {
+    print("Terminating app due to integrity verification failure.");
+  }
+}
+```
