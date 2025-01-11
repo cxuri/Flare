@@ -44,7 +44,7 @@ dependencies:
     sdk: flutter
   flare:
     git:
-      url: https://github.com/username/flare
+      url: https://github.com/cxuri/flare
       ref: main  # Replace with the branch or tag you'd like to use
 ```
 ### 2. **Get dependencies**
