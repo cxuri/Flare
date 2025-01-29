@@ -1,7 +1,6 @@
-
 import 'flare_platform_interface.dart';
 
-class Flare{
+class Flare {
   String sha256 = "";
 
   Flare(this.sha256);
@@ -14,10 +13,11 @@ class Flare{
         return true;
       } else {
         print("App integrity verification failed!");
-        return false; 
+        return false;
       }
     } catch (e) {
       print('Error while validating app integrity: $e');
+      return false;
     }
   }
 }

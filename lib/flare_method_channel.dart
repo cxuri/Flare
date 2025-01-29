@@ -1,4 +1,3 @@
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
@@ -11,10 +10,9 @@ class MethodChannelFlare extends FlarePlatform {
   final methodChannel = const MethodChannel('flare');
 
   @override
-
   Future<bool?> validateAppIntegrity(String sha256) async {
-    final valid = await methodChannel.invokeMethod<bool>('validateAppIntegrity', {'sha': sha256});
+    final valid = await methodChannel
+        .invokeMethod<bool>('validateAppIntegrity', {'sha': sha256});
     return valid;
-  } 
-
+  }
 }
