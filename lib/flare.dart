@@ -19,6 +19,5 @@ class Flare {
       print('Error while validating app integrity: $e');
       return false;
     }
-    return false;
   }
 }
